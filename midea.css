@@ -1,0 +1,1665 @@
+@media (max-width:1199px) {
+
+    /*navbar section start*/
+
+    .logo {
+        width: 200px;
+        margin-left: -40px;
+    }
+
+    .navbar {
+        margin-right: -10px;
+    }
+
+    .nav .nav-item {
+        padding: 0px 12px;
+    }
+
+    .content-image {
+        width: 350px;
+        height: 300px;
+        top: 50%;
+    }
+
+    .content-image .owl-two .image img {
+        width: 350px;
+        height: 300px;
+
+    }
+
+    .slider-uper-text .welcome_text {
+        margin-bottom: 25px;
+    }
+
+    /*navbar section end*/
+    .about-section {
+        padding-bottom: 30px;
+    }
+
+    .about-heading {
+        padding: 20px 0px;
+    }
+
+    .about-text {
+        margin-top: 50px;
+    }
+
+    /*hiring section start*/
+    .hiring-heading h2 {
+        font-size: 32px;
+    }
+
+    .hiring-block .price {
+        font-size: 30px;
+    }
+
+    .hiring-block h2 {
+        font-size: 26px;
+        padding: 10px 0px;
+    }
+
+    .hiring-block ul li {
+        font-size: 16px;
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 28px;
+    }
+
+    /*hiring section end*/
+
+    .protfolio-heading {
+        padding: 20px 0px;
+    }
+
+
+    .blog-image {
+        height: 210px;
+        width: 100%
+    }
+
+    .gallery-wrapper .col {}
+
+    .owl-third {
+        padding-bottom: 15px;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width:1099px) {
+
+    /*navbar section start*/
+    .logo {
+        width: 200px;
+        margin-left: 14px;
+    }
+
+    .navbar {
+        margin-right: 0px;
+    }
+
+    .nav .nav-item {
+        padding: 0px 8px;
+    }
+
+    .content-image {
+        width: 300px;
+        height: 250px;
+        top: 50%;
+        right: -5%;
+    }
+
+    .content-image .owl-two .image img {
+        width: 300px;
+        height: 250px;
+    }
+
+    .slider-uper-text .welcome_text {
+        margin-bottom: 25px;
+    }
+
+    /*navbar section end*/
+    .about-section {
+        padding-bottom: 20px;
+    }
+
+    .about-text {
+        margin-top: 50px;
+    }
+
+    /*service section start*/
+    .service-heading {
+        padding: 10px 0px;
+    }
+
+    .service-wrapper {
+        padding: 0;
+        margin: 0;
+    }
+
+    /*service section end*/
+
+    /*hiring section start*/
+    .hiring-heading h2 {
+        font-size: 32px;
+    }
+
+    .hiring-block .price {
+        font-size: 30px;
+    }
+
+    .hiring-block h2 {
+        font-size: 26px;
+        padding: 10px 0px;
+    }
+
+    .hiring-block ul li {
+        font-size: 16px;
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 28px;
+    }
+
+    /*hiring section end*/
+    .hire-me {
+        padding: 20px 0px;
+    }
+
+    .hire-me-content h2 {
+        font-size: 32px;
+    }
+
+    .experience-section-heading h2,
+    .education-section-heading h2 {
+        font-size: 24px;
+    }
+
+    .first-experience h2,
+    .first-education h2 {
+        font-size: 20px;
+    }
+
+    .education-icon i,
+    .experience-icon i {
+        font-size: 22px;
+        width: 45px;
+        height: 45px;
+    }
+
+    .experience-icon div {
+        height: 62px;
+    }
+
+    .education-icon div {
+        height: 62px;
+    }
+
+    .experience-icon,
+    .education-icon {
+        margin-top: 70px;
+    }
+
+    .blog-image {
+        height: 210px;
+    }
+
+    .card-text {
+        line-height: 20px;
+    }
+
+    .card {
+        height: 428px;
+    }
+
+    .client-image {
+        width: 110px;
+        height: 110px;
+    }
+
+    .owl-third {
+        padding-bottom: 0px;
+        margin-top: 15px;
+    }
+
+}
+
+@media (max-width:991px) {
+
+    /*navbar section start*/
+    header {
+        height: 75px !important;
+    }
+
+    .header-section {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 75px;
+        margin: 0;
+    }
+
+    .logo-section .logo {
+        margin-left: 30px;
+    }
+
+    .logo-section .logo h2 {
+        font-size: 44px;
+    }
+
+    .logo {
+        width: 200px;
+        margin: 0;
+    }
+
+    .logo-section .menu-fa-bars {
+        display: block;
+        margin-right: 35px;
+    }
+
+    .navbar {
+        position: absolute;
+        display: block;
+        width: 30%;
+        height: 380px;
+        top: 75px;
+        right: -35%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .bgColor {
+        background-color: #0E3A50 !important;
+        transition: .4s linear;
+    }
+
+    .menubarShow {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 75px;
+        transition: all .4s linear;
+    }
+
+    .nav .nav-logo {
+        display: block;
+    }
+
+    .nav {
+        display: block;
+        background: #10141e;
+        text-align: center;
+        list-style-type: none;
+        padding-top: 10px;
+        width: 100%;
+        height: 490px;
+    }
+
+    .nav-item {
+        width: max-content;
+        margin: auto;
+    }
+
+    .nav .nav-item .nav-link {
+        font-size: 16px;
+        position: relative;
+        padding: 9px 5px;
+    }
+
+    .slider-uper-text .welcome_text {
+        margin-bottom: 25px;
+    }
+
+    .banner-section {
+        height: 549px;
+    }
+
+    /*navbar section end*/
+
+
+
+    .about-section {
+        padding-bottom: 20px;
+    }
+
+    .about-heading {
+        padding: 20px 0px;
+    }
+
+    .about-heading h2 {
+        font-size: 32px;
+    }
+
+    .my-image {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        margin: auto;
+        border: 1px solid #eee;
+        box-shadow: 0px 0px 80px 0px rgba(20, 122, 172, 0.84);
+        margin-top: 25px;
+    }
+
+    .my-image img {
+        height: 100%;
+        width: 100%;
+        transform: translateY(65px)scale(2);
+    }
+
+    .about-text {
+        margin-top: 20px;
+    }
+
+    .about-text-hello {
+        margin: auto;
+        font-size: 26px;
+    }
+
+    .about-text-day {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    .about-text-content {
+        padding: 0px 10px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .download-btn-social-icon button {
+        padding: 3px 10px;
+        font-size: 18px;
+        margin-left: 12px;
+    }
+
+    .social-icon i {
+        font-size: 18px;
+    }
+
+    /*service section start*/
+    .service-section {
+        padding-bottom: 20px;
+    }
+
+    .service-heading {
+        padding: 15px 0px;
+    }
+
+    .service-heading h2 {
+        font-size: 32px;
+    }
+
+    .service-wrapper .col {
+        width: 340px;
+    }
+
+    /*service section end*/
+
+    /*hiring section start*/
+    .hiring-heading {
+        padding: 15px 0px;
+    }
+
+    .hiring-heading h2 {
+        font-size: 32px;
+    }
+
+    .hiring-block .price {
+        font-size: 30px;
+    }
+
+    .hiring-block h2 {
+        font-size: 26px;
+        padding: 10px 0px;
+    }
+
+    /*hiring section end*/
+    .my-skill-heading {
+        padding: 15px 0px;
+    }
+
+    .my-skill-heading h2 {
+        font-size: 32px;
+    }
+
+    .my-skill {
+        padding-bottom: 20px;
+    }
+
+    .hire-me-content {
+        width: 500px;
+    }
+
+    .hire-me {
+        padding: 20px 0px;
+    }
+
+    .hire-me-content h2 {
+        font-size: 28px;
+    }
+
+    .hire-me-content p {
+        font-size: 18px;
+    }
+
+    /*start protfolio section*/
+
+    .experience-icon,
+    .education-icon {
+        display: none;
+    }
+
+    .protfolio-section {
+        padding-bottom: 20px;
+    }
+
+    .protfolio-heading {
+        padding: 15px 0px;
+    }
+
+    .protfolio-heading h2 {
+        font-size: 32px;
+    }
+
+    .experience-section,
+    .education-section {
+        margin-left: 0px;
+        margin-top: 34px;
+        width: 500px;
+    }
+
+    .protfolio-block {
+        padding: 0px 0px;
+    }
+
+    .first-experience,
+    .first-education,
+    .second-experience,
+    .third-experience,
+    .second-education,
+    .third-education,
+    .four-education,
+    .five-education {
+        margin-top: 14px;
+        border: 1px solid #eee;
+        border-radius: 4px;
+        padding: 10px 20px;
+    }
+
+    .education-block,
+    .experience-block {
+        margin-top: 20px;
+    }
+
+    .resize-medium {
+        display: block;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .experience-section-heading h2,
+    .education-section-heading h2 {
+        line-height: 40px;
+        font-size: 20px;
+        padding-left: 0;
+    }
+
+    .education-section-heading h2::after {
+        left: 38%;
+        bottom: 2px;
+    }
+
+    .experience-section-heading h2::after {
+        left: 36%;
+        bottom: 2px;
+    }
+
+    .first-experience h2,
+    .first-education h2,
+    .second-experience h2,
+    .third-experience h2,
+    .second-education h2,
+    .third-education h2,
+    .four-education h2,
+    .five-education h2 {
+        font-size: 18px;
+    }
+
+    /*end protfolio section*/
+    .blog-heading {
+        padding: 15px 0px;
+    }
+
+    .blog-heading h2 {
+        font-size: 32px;
+    }
+
+    .card-section {
+        padding: 20px 0px;
+    }
+
+    .card-section .col {
+        width: 360px;
+    }
+
+    .blog-image {
+        height: 260px;
+    }
+
+    .card-title {
+        padding: 3px 0px;
+    }
+
+    .card {
+        height: 440px;
+    }
+
+    .gallery-heading {
+        padding: 15px 0px;
+    }
+
+    .gallery-wrapper {
+        padding: 0;
+        margin-top: 5px;
+    }
+
+    .gallery-heading h2 {
+        font-size: 32px;
+    }
+
+    .more-photo {
+        margin: 20px auto;
+    }
+
+    .btn-more-photo {
+        padding: 3px 5px;
+    }
+
+    .my-client-heading {
+        padding: 15px 0px;
+    }
+
+    .my-client-heading h2 {
+        font-size: 32px;
+    }
+
+
+    .client-image-content {
+        padding-top: 20px;
+    }
+
+    .client-content p {
+        font-size: 16px;
+        padding: 0px 30px;
+    }
+
+    .owl-third {
+        padding-bottom: 10px;
+    }
+
+    .owl-third.owl-theme .owl-nav.disabled+.owl-dots {
+        margin: 0;
+    }
+
+    .client-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .owl-third {
+        padding-bottom: 0px;
+        margin-top: 15px;
+    }
+
+    .client-content p {
+        padding: 0px 5px;
+    }
+
+    .project-heading h2 {
+        font-size: 32px;
+    }
+
+    .project-ditails-button {
+        margin: 18px auto;
+    }
+
+    .project-image a span {
+        font-size: 20px;
+    }
+
+    .section-title .title {
+        font-size: 32px;
+    }
+
+    .contact-info .footer-logo h2 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width:767px) {
+    header {
+        height: 70px !important;
+    }
+
+    .header-section {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 70px;
+        margin: 0;
+    }
+
+    .logo-section .logo {
+        margin-left: 20px;
+    }
+
+    .logo-section .logo h2 {
+        font-size: 35px;
+    }
+
+    .logo-section .menu-fa-bars {
+        display: block;
+        margin-right: 35px;
+    }
+
+    .menu-fa-bars i {
+        font-size: 24px;
+    }
+
+    .navbar {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 380px;
+        top: 70px;
+        right: -100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .bgColor {
+        background-color: #0E3A50 !important;
+        transition: .6s linear;
+    }
+
+    .menubarShow {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 70px;
+        transition: all .6s linear;
+        padding: 0;
+        margin: 0;
+    }
+
+    .nav .nav-logo {
+        display: block;
+    }
+
+    .nav {
+        display: block;
+        background: #10141e;
+        text-align: center;
+        list-style-type: none;
+        padding-top: 10px;
+        width: 100%;
+        height: 490px;
+    }
+
+    .nav-item {
+        width: max-content;
+        margin: auto;
+    }
+
+    .nav .nav-item .nav-link {
+        font-size: 16px;
+        position: relative;
+        padding: 9px 5px;
+    }
+
+    .banner-section {
+        height: 549px;
+    }
+
+    .slider-uper-text .welcome_text {
+        margin-bottom: 20px;
+    }
+
+    .cd-words-wrapper b {
+        font-size: 35px;
+    }
+
+    .cd-headline .im-text {
+        font-size: 35px;
+    }
+
+    .about-section {
+        padding-bottom: 10px;
+    }
+
+    .about-heading {
+        padding: 10px 0px;
+    }
+
+    .about-heading h2 {
+        font-size: 28px;
+    }
+
+    .my-image {
+        width: 210px;
+        height: 210px;
+        border-radius: 50%;
+        margin: auto;
+        border: 1px solid #eee;
+        box-shadow: 0px 0px 80px 0px rgba(20, 122, 172, 0.84);
+        margin-top: 25px;
+    }
+
+    .my-image img {
+        height: 100%;
+        width: 100%;
+        transform: translateY(45px)scale(1.9);
+    }
+
+    .about-text {
+        margin-top: 20px;
+    }
+
+    .about-text-hello {
+        margin: auto;
+        font-size: 20px;
+    }
+
+    .about-text-day {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .about-text-content {
+        padding: 0px 10px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .download-btn-social-icon button {
+        padding: 2px 10px;
+        font-size: 18px;
+        margin-left: 12px;
+    }
+
+    .social-icon {}
+
+    .social-icon i {
+        font-size: 18px;
+    }
+
+    /*service section start*/
+    .service-section {
+        padding-bottom: 20px;
+    }
+
+    .service-heading {
+        padding: 5px 0px;
+    }
+
+    .service-heading h2 {
+        font-size: 28px;
+    }
+
+    .service-wrapper .col {
+        width: 262px;
+    }
+
+    .service-block img {
+        margin: 0;
+    }
+
+    .service-icon {
+        border: 1px solid #ccc;
+        background-color: #eeeeee6e;
+        border-radius: 4px;
+        width: 75px;
+        height: 75px;
+        margin: 8px auto;
+    }
+
+    .service-block p {
+        padding: 0 0;
+    }
+
+    .service-icon i {
+        line-height: 75px;
+        font-size: 38px;
+    }
+
+    /*service section end*/
+
+    /*hiring section start*/
+    .hiring-heading {
+        padding: 5px 0px;
+    }
+
+    .hiring-heading h2 {
+        font-size: 28px;
+    }
+
+    .hiring-wrapper {
+        margin-top: 10px;
+    }
+
+    .hiring-wrapper .col {
+        width: 370px;
+    }
+
+    .hiring-block .price {
+        font-size: 28px;
+    }
+
+    .hiring-block h2 {
+        font-size: 24px;
+        padding: 10px 0px;
+    }
+
+    .hiring-block ul {
+        margin-top: 10px;
+    }
+
+    .hiring-block ul li {
+        font-size: 16px;
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 30px;
+    }
+
+    /*hiring section end*/
+
+    .my-skill-heading {
+        padding: 10px 0px;
+    }
+
+    .my-skill-heading h2 {
+        font-size: 28px;
+    }
+
+    .my-skill {
+        padding-bottom: 20px;
+    }
+
+    .my-skill-wrapper {
+        padding: 10px 0px;
+    }
+
+    .hire-me-content {
+        width: 500px;
+    }
+
+    .hire-me {
+        padding: 20px 0px;
+    }
+
+    .hire-me-content h2 {
+        font-size: 24px;
+        letter-spacing: 5px;
+    }
+
+    .hire-me-content p {
+        font-size: 18px;
+        padding: 5px 5px;
+    }
+
+    /*start protfolio section*/
+    .protfolio-section {
+        padding-bottom: 15px;
+    }
+
+    .protfolio-heading {
+        padding: 10px 0px;
+    }
+
+    .protfolio-heading h2 {
+        font-size: 28px;
+    }
+
+    .experience-section,
+    .education-section {
+        margin-left: 0px;
+        margin-top: 34px;
+        width: 500px;
+    }
+
+    .protfolio-block {
+        padding: 0px 0px;
+    }
+
+    .first-experience,
+    .first-education,
+    .second-experience,
+    .third-experience,
+    .second-education,
+    .third-education,
+    .four-education,
+    .five-education {
+        margin-top: 14px;
+        border: 1px solid #eee;
+        border-radius: 4px;
+        padding: 10px 20px;
+    }
+
+    .education-block,
+    .experience-block {
+        margin-top: 20px;
+    }
+
+    .resize-medium {
+        display: block;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .experience-section-heading h2,
+    .education-section-heading h2 {
+        line-height: 35px;
+        font-size: 20px;
+        padding-left: 0;
+    }
+
+    .experience-section-heading h2::after,
+    .education-section-heading h2::after {
+        left: 34%;
+        bottom: 2px;
+    }
+
+    .first-experience h2,
+    .first-education h2,
+    .second-experience h2,
+    .third-experience h2,
+    .second-education h2,
+    .third-education h2,
+    .four-education h2,
+    .five-education h2 {
+        font-size: 18px;
+    }
+
+    /*end protfolio section*/
+
+    .btn-hire3 {
+        font-size: 18px;
+    }
+
+    .blog-heading {
+        padding: 5px 0px;
+    }
+
+    .blog-heading h2 {
+        font-size: 28px;
+    }
+
+    .card-section {
+        padding: 20px 0px;
+    }
+
+    .card-section .col {
+        width: 280px;
+    }
+
+    .blog-image {
+        height: 220px;
+    }
+
+    .card-title {
+        padding: 3px 0px;
+    }
+
+    .card {
+        height: 410px;
+    }
+
+    .gallery-heading {
+        padding: 5px 0px;
+    }
+
+    .gallery-wrapper {
+        padding: 0;
+        margin-top: 5px;
+    }
+
+    .gallery-heading h2 {
+        font-size: 28px;
+    }
+
+    .more-photo {
+        margin: 10px auto;
+    }
+
+    .btn-more-photo {
+        padding: 0px 5px;
+    }
+
+
+    .client-image-content {
+        padding-top: 20px;
+    }
+
+    .client-content p {
+        font-size: 16px;
+        padding: 0px 30px;
+    }
+
+    .client-name-title {}
+
+    .owl-third {
+        padding-bottom: 10px;
+    }
+
+    .owl-third.owl-theme .owl-nav.disabled+.owl-dots {
+        margin: 0;
+    }
+
+    .client-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .my-client-heading {}
+
+    .my-client-heading h2 {
+        font-size: 28px;
+    }
+
+    .project-wrapper {
+        margin: 0px 0px;
+    }
+
+    .project-heading {
+        padding: 10px 0px;
+    }
+
+    .project-heading h2 {
+        font-size: 28px;
+    }
+
+    .project-ditails-button {
+        margin: 15px auto;
+    }
+
+    .project-image a span {
+        font-size: 18px;
+    }
+
+    .section-title {
+        padding: 10px 0px;
+    }
+
+    .section-title .title {
+        font-size: 28px;
+    }
+
+    .contact-info .footer-logo h2 {
+        font-size: 35px;
+    }
+
+    .contact-info span {
+        font-size: 18px;
+    }
+
+    .imageShow .fullImage {
+        transform: translate(-50%, -50%)scale(.7);
+        animation: imageZoom .4s linear;
+    }
+
+    @keyframes imageZoom {
+        0% {
+            transform: translate(-50%, -50%) scale(.2);
+        }
+
+        100% {
+            transform: translate(-50%, -50%) scale(.7);
+        }
+    }
+
+}
+
+@media (max-width:575px) {
+
+
+    header {
+        height: 60px !important;
+    }
+
+    .header-section {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 60px;
+        margin: 0;
+    }
+
+    .logo-section .logo {
+        margin-left: 20px;
+    }
+
+    .logo-section .logo h2 {
+        font-size: 30px;
+    }
+
+    .menu-fa-bars i {
+        font-size: 24px;
+    }
+
+    .navbar {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 380px;
+        top: 60px;
+        right: -100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .bgColor {
+        background-color: #0E3A50 !important;
+        transition: .6s linear;
+    }
+
+    .menubarShow {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 60px;
+        transition: all .6s linear;
+        padding: 0;
+        margin: 0;
+    }
+
+    .nav .nav-logo {
+        display: block;
+    }
+
+    .nav {
+        display: block;
+        background: #10141e;
+        text-align: center;
+        list-style-type: none;
+        padding-top: 10px;
+        width: 100%;
+        height: 490px;
+    }
+
+    .nav-item {
+        width: max-content;
+        margin: auto;
+    }
+
+    .nav .nav-item .nav-link {
+        font-size: 16px;
+        position: relative;
+        padding: 9px 5px;
+    }
+
+
+    .banner-section {
+        height: 549px;
+    }
+
+    .slider-uper-text .welcome_text {
+        margin-bottom: 20px;
+    }
+
+    .about-section {
+        padding-bottom: 10px;
+    }
+
+    .about-heading {
+        padding: 5px 0px;
+    }
+
+    .about-heading h2 {
+        font-size: 24px;
+    }
+
+    .my-image {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin: auto;
+        border: 1px solid #eee;
+        box-shadow: 0px 0px 80px 0px rgba(20, 122, 172, 0.84);
+        margin-top: 25px;
+    }
+
+    .my-image img {
+        height: 100%;
+        width: 100%;
+        transform: translateY(45px)scale(1.9);
+    }
+
+    .about-text {
+        margin-top: 20px;
+    }
+
+    .about-text-hello {
+        margin: auto;
+        font-size: 20px;
+    }
+
+    .about-text-day {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .about-text-content {
+        padding: 0px 10px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .download-btn-social-icon button {
+        padding: 2px 10px;
+        font-size: 18px;
+        margin-left: 12px;
+    }
+
+    .social-icon {}
+
+    .social-icon i {
+        font-size: 18px;
+    }
+
+    /*service section start*/
+    .service-section {
+        padding-bottom: 20px;
+    }
+
+    .service-heading {
+        padding: 5px 0px;
+    }
+
+    .service-heading h2 {
+        font-size: 24px;
+    }
+
+    .service-wrapper {
+        margin-top: 2px;
+        padding: 0;
+    }
+
+    .service-wrapper .col {
+        width: 310px;
+    }
+
+    .service-icon {
+        border: 1px solid #ccc;
+        background-color: #eeeeee6e;
+        border-radius: 4px;
+        width: 75px;
+        height: 75px;
+    }
+
+    .service-icon i {
+        line-height: 75px;
+        font-size: 35px;
+    }
+
+    /*service section end*/
+
+    /*hiring section start*/
+    .hire-section {
+        padding-bottom: 20px;
+    }
+
+    .hiring-wrapper .col {
+        width: 380px;
+    }
+
+    .hiring-wrapper {
+        margin-top: 0px;
+    }
+
+    .hiring-heading {
+        padding: 5px 0px;
+    }
+
+    .hiring-heading h2 {
+        font-size: 24px;
+    }
+
+    .hiring-block .price {
+        font-size: 24px;
+    }
+
+    .hiring-block h2 {
+        font-size: 20px;
+        padding: 10px 0px;
+    }
+
+    .hiring-block ul {
+        margin-top: 10px;
+    }
+
+    .hiring-block ul li {
+        font-size: 16px;
+        padding-left: 25px;
+        padding-right: 25px;
+        line-height: 30px;
+    }
+
+    /*hiring section end*/
+    .my-skill-heading {
+        padding: 5px 0px;
+    }
+
+    .my-skill-heading h2 {
+        font-size: 24px;
+    }
+
+    .my-skill {
+        padding-bottom: 20px;
+    }
+
+    .my-skill-wrapper {
+        padding: 8px 0px;
+    }
+
+    .my-skill-wrapper .col {
+        width: 310px;
+    }
+
+
+    .hire-me-content {
+        width: 380px;
+    }
+
+    .hire-me {
+        padding: 20px 0px;
+    }
+
+    .hire-me-content h2 {
+        font-size: 24px;
+        letter-spacing: 5px;
+    }
+
+    .hire-me-content p {
+        font-size: 16px;
+        padding: 5px 10px;
+    }
+
+    /*start protfolio section*/
+
+    .protfolio-section {
+        padding-bottom: 15px;
+    }
+
+    .protfolio-heading {
+        padding: 5px 0px;
+    }
+
+    .protfolio-heading h2 {
+        font-size: 24px;
+    }
+
+    .first-experience,
+    .first-education {
+        margin-top: 36px;
+        border: 1px solid #eee;
+        padding: 10px;
+        border-radius: 4px;
+    }
+
+    .experience-section,
+    .education-section {
+        margin-left: 0px;
+        margin-top: 20px;
+        width: 350px;
+    }
+
+    .protfolio-block {
+        padding: 0px 0px;
+    }
+
+    .second-experience,
+    .third-experience,
+    .second-education,
+    .third-education,
+    .four-education,
+    .five-education {
+        margin-top: 22px;
+        border: 1px solid #eee;
+        border-radius: 4px;
+        padding: 10px;
+    }
+
+    .education-block,
+    .experience-block {
+        margin-top: 20px;
+    }
+
+    .resize-medium {
+        display: block;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .experience-section-heading h2,
+    .education-section-heading h2 {
+        line-height: 35px;
+        font-size: 20px;
+        padding-left: 0;
+    }
+
+    .experience-section-heading h2::after,
+    .education-section-heading h2::after {
+        left: 34%;
+        bottom: 2px;
+    }
+
+    .first-experience h2,
+    .first-education h2 {
+        font-size: 17px;
+    }
+
+    .second-experience h2,
+    .third-experience h2,
+    .second-education h2,
+    .third-education h2,
+    .four-education h2,
+    .five-education h2 {
+        font-size: 17px;
+    }
+
+    /*end protfolio section*/
+    .btn-hire3 {
+        font-size: 16px;
+    }
+
+    .card-section {
+        padding: 15px 0px;
+    }
+
+    .blog-heading {
+        padding: 5px 0px;
+    }
+
+    .blog-heading h2 {
+        font-size: 24px;
+    }
+
+    .card-section .col {
+        width: 340px;
+    }
+
+    .blog-image {
+        height: 250px;
+    }
+
+    .card-title {
+        padding: 3px 0px;
+    }
+
+    .card {
+        height: 436px;
+    }
+
+    .gallery-heading {
+        padding: 5px 0px;
+    }
+
+    .gallery-wrapper {
+        padding: 0;
+        margin-top: 5px;
+    }
+
+    .gallery-heading h2 {
+        font-size: 24px;
+    }
+
+    .more-photo {
+        margin: 10px auto;
+    }
+
+    .btn-more-photo {
+        padding: 0px 5px;
+    }
+
+    .my-client-heading {
+        padding: 10px 0px;
+    }
+
+    .my-client-heading h2 {
+        font-size: 24px;
+    }
+
+
+    .client-image-content {
+        padding: 20px 0px;
+    }
+
+    .client-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .client-content p {
+        font-size: 16px;
+        padding: 0px 10px;
+    }
+
+    .client-name-title {}
+
+    .client-name-title span {
+        margin-top: -5px;
+        display: block;
+    }
+
+    .owl-third {
+        padding: 0;
+    }
+
+    .owl-third.owl-theme .owl-nav.disabled+.owl-dots {
+        margin: 0;
+    }
+
+
+    .project-wrapper {
+        margin: 0px 0px;
+    }
+
+    .project-heading {
+        padding: 5px 0px;
+    }
+
+    .project-heading h2 {
+        font-size: 24px;
+    }
+
+    .project-ditails-button {
+        margin: 15px auto;
+    }
+
+    .project-image a span {
+        font-size: 18px;
+    }
+
+    .section-title {
+        padding: 5px 0px;
+    }
+
+    .section-title .title {
+        font-size: 24px;
+    }
+
+    .contact-info .footer-logo h2 {
+        font-size: 30px;
+    }
+
+    .contact-info {
+        line-height: 30px;
+    }
+
+    .contact-info span {
+        font-size: 16px;
+    }
+
+    .footer-social-icon i {
+        font-size: 18px;
+    }
+
+
+    .top-scroll {
+        width: 36px;
+        height: 36px;
+        right: 20px;
+        bottom: 30px;
+    }
+
+    .imageShow .fullImage {
+        transform: translate(-50%, -50%)scale(.6);
+        animation: imageZoom .4s linear;
+    }
+
+    @keyframes imageZoom {
+        0% {
+            transform: translate(-50%, -50%) scale(.2);
+        }
+
+        100% {
+            transform: translate(-50%, -50%) scale(.6);
+        }
+    }
+
+}
+
+@media only screen and (max-width: 575px) {
+    .cd-words-wrapper b {
+        font-size: 32px;
+    }
+
+    .cd-headline .im-text {
+        font-size: 32px;
+    }
+
+    .text p {
+        padding: 0px 150px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .cd-words-wrapper b {
+        font-size: 24px;
+    }
+
+    .cd-headline .im-text {
+        font-size: 24px;
+    }
+
+    .text p {
+        padding: 0px 184px;
+    }
+
+    .arrow-down {
+        bottom: 70px;
+    }
+}
